@@ -49,11 +49,11 @@ This project aims to provide a **data-driven estimation** of birth weight using 
 
 ## 📁 Project Structure
 - birth-weight-predictor/
---├── app.py              
---├── model.pkl           
---├── requirements.txt   
---├── templates/          
---└── README.md           
+   -├── app.py              
+   -├── model.pkl           
+   -├── requirements.txt   
+   -├── templates/          
+   -└── README.md           
 
 ---
 
