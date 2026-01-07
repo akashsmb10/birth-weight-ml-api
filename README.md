@@ -68,8 +68,8 @@ Basic request validation and error handling are implemented to ensure reliable A
 
 ## 📁 Project Structure
 birth-weight-predictor/
-├── app.py
-├── model.pkl
-├── requirements.txt
-├── templates/
-└── README.md
+- ├── app.py
+- ├── model.pkl
+- ├── requirements.txt
+- ├── templates/
+- └── README.md
