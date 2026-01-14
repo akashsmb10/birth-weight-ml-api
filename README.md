@@ -21,7 +21,7 @@ The main goals of this project are:
 
 ## 📂 Project Structure
 
-'''
+\\\
 Machine Model/
 │
 ├── templates/
@@ -37,7 +37,7 @@ Machine Model/
 ├── requirements.txt
 ├── .gitignore
 
-'''
+\\\
 
 ---
 
