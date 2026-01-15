@@ -1,7 +1,12 @@
-# 🧠 Birth Weight Prediction – ML-Driven Clinical Prediction System
+# ML-Driven Clinical Prediction System with RESTful APIs
 
-This project implements a **Machine Learning–based regression model** using Python to predict **newborn birth weight** based on maternal and pregnancy-related clinical features.  
-The trained model is deployed using **Flask REST APIs** and can be accessed via both **HTTP requests and a simple web interface**.
+A Machine Learning–powered web application that predicts **newborn birth weight** based on maternal and pregnancy-related factors.  
+The application is built using **Python, Flask, and Scikit-learn** and deployed live using **Render**.
+
+---
+
+## 🚀 Live Demo
+🔗 https://birth-weight-predictor-akt3.onrender.com
 
 ---
 
@@ -92,3 +97,10 @@ The dataset consists of structured maternal and pregnancy health records.
 ```bash
 git clone https://github.com/akashsmb10/birth-weight-ml-api.git
 cd birth-weight-ml-api
+
+## Testing
+Manual Testing: Use the web interface
+
+API Testing: Use Postman or cURL commands
+
+
