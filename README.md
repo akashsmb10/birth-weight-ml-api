@@ -90,13 +90,10 @@ The dataset consists of structured maternal and pregnancy health records.
 
 ---
 ## 🔄 Development Workflow
-Data Analysis: ML_training.ipynb
-
-Model Training: model_training.ipynb
-
-Application Development: app.py
-
-Testing: Local server + Postman
+- Data Analysis: ML_training.ipynb
+- Model Training: model_training.ipynb
+- Application Development: app.py
+- Testing: Local server + Postman
 
 Deployment: Render platform
 ---
